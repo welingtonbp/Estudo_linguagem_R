@@ -9,3 +9,10 @@ setwd("C:\Users\QI3\Documents\Meu Repositório R")
 Atenção: O R somente aceita barras invertidas.
 
 setwd("C:/Users/QI3/Documents/Meu Repositório R")
+
+---------------------------------------------------------------------------------
+Carregar arquivo .csv
+
+read.csv("Arquivo")
+
+## Lembrando o arquivo deve estar no diretório de arquivos R
