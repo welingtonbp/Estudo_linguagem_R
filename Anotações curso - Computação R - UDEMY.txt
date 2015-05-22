@@ -1,10 +1,11 @@
 Para comentar utilizar #
 
 Para apresentar o diretorio de trabalho atual: getwd()
+getwd()
 
-Para configurar o Repositório do R, 
+Para configurar o RepositÃ³rio do R, 
 
-setwd("C:\Users\QI3\Documents\Meu Repositório R")
-Atenção: O R somente aceita barras invertidas.
+setwd("C:\Users\QI3\Documents\Meu RepositÃ³rio R")
+AtenÃ§Ã£o: O R somente aceita barras invertidas.
 
-setwd("C:/Users/QI3/Documents/Meu Repositório R")
+setwd("C:/Users/QI3/Documents/Meu RepositÃ³rio R")
