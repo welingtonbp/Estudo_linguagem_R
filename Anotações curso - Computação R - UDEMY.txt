@@ -13,6 +13,6 @@ setwd("C:/Users/QI3/Documents/Meu Repositório R")
 ---------------------------------------------------------------------------------
 Carregar arquivo .csv
 
-read.csv("Arquivo")
+read.csv("Arquivo.csv")
 
 ## Lembrando o arquivo deve estar no diretório de arquivos R
